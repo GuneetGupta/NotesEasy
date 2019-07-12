@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "938059355555",
+    "firebase_url": "https://noteseasy-d7767.firebaseio.com",
+    "project_id": "noteseasy-d7767",
+    "storage_bucket": "noteseasy-d7767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938059355555:android:1e2b2e93e3e532c8",
+        "android_client_info": {
+          "package_name": "com.example.noteseasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938059355555-as0p0h76gphsu4auet48d5lhu4obai28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteseasy",
+            "certificate_hash": "0e95138de38605fca696bc6c062220b8004e49e2"
+          }
+        },
+        {
+          "client_id": "938059355555-og2u556fhrq8g5omis0ltcikmefg9roa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Qy2SvzU3Cjjn6iPELGxM9_ieTDc1WZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938059355555-og2u556fhrq8g5omis0ltcikmefg9roa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5864155067336715~6835984518"
+    }
+  ],
+  "configuration_version": "1"
+}
